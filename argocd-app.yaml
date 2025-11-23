@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/YOUR_GITHUB_USER_OR_ORG/YOUR_ARGOCD_REPO.git'
+    repoURL: 'https://github.com/helloaman0508/java-prototype-gitops-argocd.git' # Replace with your repo URL
     targetRevision: main
     path: k8s
   destination:
